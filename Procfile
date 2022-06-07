@@ -1,0 +1,1 @@
+woker: ts-node index.ts
