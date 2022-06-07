@@ -63,4 +63,4 @@ client.on("ready", async() => {
 
 
 
-client.login(process.env.TOKEN)
+client.login("OTgzNjM1Njg2NTM4MjIzNjQ4.GQe35Z.1g2tVJCmY_vc3OpPsVSh-tpRXvQUEdJ7bj_VyI")
